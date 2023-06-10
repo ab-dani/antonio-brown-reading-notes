@@ -10,7 +10,7 @@
 
 [antoniodani.co](https://antoniodani.co)
 
-**My skills are  _extremely_ important**
+**My skills are  _Creative Problem Solving_ _Creative Strategy_ _Adobe Creative Knowledge_. 
 
 
 

@@ -8,7 +8,13 @@
 
 ### This is my portfolio website. Check me out. 
 
-[antoniodani.co](docs/CONTRIBUTING.md)
+[antoniodani.co](antoniodani.co)
+
+
+
+
+
+
 
 
 

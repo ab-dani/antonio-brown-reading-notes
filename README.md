@@ -6,6 +6,10 @@
 - I like chicken nuggets. 
 - And I watch movies. 
 
+### This is my portfolio website. Check me out. 
+
+[antoniodani.co](docs/CONTRIBUTING.md)
+
 
 
 

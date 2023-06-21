@@ -1,1 +1,4 @@
-
+- the order in which the computer executes statements in a script
+- a block of code designed to perform a particular task.
+- Solve a numerical problem.
+- It is an operator

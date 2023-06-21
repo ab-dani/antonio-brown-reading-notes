@@ -1,1 +1,4 @@
-
+- a valid unit of code that resolves to a value.
+- It's a quick and easy way to do something repeatedly. 
+- A for loop repeats until a specified condition evaluates to false
+- A while statement executes its statements as long as a specified condition evaluates to true

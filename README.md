@@ -17,18 +17,6 @@
 
 
 #Table of Contents
-
-- 102
-  - Learning Markdown
-  - The Coder's Computer
-  - Revisions and the Cloud
-  - Structure pages with HTML
-  - Design pages with CSS
-  - Dynamic web pages with Javascript
-  - Programming with Javascript
-  - Operators and Loops
- 
-- 201
-  - 
-
+[102] (https://github.com/abdani61V/antonio-brown-reading-notes/tree/main/102)
+[201] (https://github.com/abdani61V/antonio-brown-reading-notes/tree/main/201)
 

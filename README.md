@@ -18,6 +18,5 @@
 
 # Table of Contents
 
-[https://github.com/abdani61V/antonio-brown-reading-notes/tree/main/102)] (102)
-[https://github.com/abdani61V/antonio-brown-reading-notes/tree/main/201] (201)
-
+[102] ()
+[201] ()

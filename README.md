@@ -19,6 +19,16 @@
 #Table of Contents
 
 - 102
-  - Lab 1
+  - Learning Markdown
+  - The Coder's Computer
+  - Revisions and the Cloud
+  - Structure pages with HTML
+  - Design pages with CSS
+  - Dynamic web pages with Javascript
+  - Programming with Javascript
+  - Operators and Loops
+ 
+- 201
+  - 
 
 

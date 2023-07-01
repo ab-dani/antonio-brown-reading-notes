@@ -3,8 +3,11 @@
 #  Describe how HTML, CSS, and JS files are “parsed” in the browser.
   - abcdedg
 #  How can you find images to add to a Website?
+  - abdefgh
 #  How do you create a String vs a Number in JavaScript?
+  - abcdefgh
 #  What is a Variable and why are they important in JavaScript?
+  - abdefghi
 
 
 

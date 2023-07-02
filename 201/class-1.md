@@ -6,9 +6,9 @@
 #  How can you find images to add to a Website?
   - Copy the image web address and paste it into a img tag or a store the image in a safe place on your folder. 
 #  How do you create a String vs a Number in JavaScript?
-  - 
+  - Strings have a series of characters around them and need quotes either ' or "". Numbers don't. 
 #  What is a Variable and why are they important in JavaScript?
-  - abdefghi
+  - They are containers that contain values and they are important because they allow you to do anything in coding. 
 
 
 

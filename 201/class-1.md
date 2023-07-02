@@ -19,7 +19,7 @@
 #  Describe the Anatomy of an HTML element.
   - <a> </a> <<< greater than tag and less than tag under a command.  
 #  What is the Difference between <article> and <section> element tags?
-  - <article></article> encloses a block of related content that makes sense on its own without the rest of the page. <section></section> grouping together a single part of the page that constitutes one single piece of functionality or theme. 
+  - _Article_ encloses a block of related content that makes sense on its own without the rest of the page. _Section_ grouping together a single part of the page that constitutes one single piece of functionality or theme. 
 #  What Elements does a “typical” website include?
   - 
 #  How does metadata influence Search Engine Optimization?

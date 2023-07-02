@@ -1,7 +1,8 @@
 # Compose a short poem describing how HTTP sends data between computers.
+  - I've been working on the servers. All the live long day! / I've been getting all the responses just to pass the time away. / Can you hear your PC shouting? / You can't 'cus it's fan is on / I spent a fortune just to get a connection / So the DNS will keep us going along! / DNS c'mon! / DNS C'mon! / DNS C'mon! mon! mon! mon! 
 
 #  Describe how HTML, CSS, and JS files are “parsed” in the browser.
-  - abcdedg
+  - HTML is parsed into a tree model called Document Object Model or DOM to represent the page structure. CSS is parsed into a model called CSS Object Model. (CSSOMN). Javascript code has been executed with these two code models to make the website work. 
 #  How can you find images to add to a Website?
   - abdefgh
 #  How do you create a String vs a Number in JavaScript?

@@ -15,9 +15,9 @@
 
 
 #  What is an HTML attribute
-  - 
+  - A characteristic that is added to an HTML element to provide additional information or modify its behavior
 #  Describe the Anatomy of an HTML element.
-  - 
+  - <a> </a> <<< greater than tag and less than tag under a command.  
 #  What is the Difference between <article> and <section> element tags?
   - 
 #  What Elements does a “typical” website include?

@@ -21,15 +21,17 @@
 #  What is the Difference between <article> and <section> element tags?
   - _Article_ encloses a block of related content that makes sense on its own without the rest of the page. _Section_ grouping together a single part of the page that constitutes one single piece of functionality or theme. 
 #  What Elements does a “typical” website include?
-  - Text, Color, Structure and Images
+  - Text, Color, Structure, and Images
 #  How does metadata influence Search Engine Optimization?
-  - 
+  - Using the text _<name>_ and _<content>_
 #  How is the <meta> HTML tag used when specifying metadata?
-  - 
+  -  It can be used for purposes such as defining character encoding, viewport settings, description, keywords, authorship, and copyright information.
 #  What is the first step to designing a Website?
-  - 
+  - Define your goals
+  - Identify your steps to reach your goals.
+  - In what order how do I accomplish those goals? 
 #  What is the most important question to answer when designing a Website?
-  - 
+  - What exactly do I want to accomplish?
 #  Why should you use an <h1> element over a <span> element to display a top level heading?
   - 
 #  What are the benefits of using semantic tags in our HTML?

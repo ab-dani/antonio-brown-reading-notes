@@ -21,7 +21,7 @@
 #  What is the Difference between <article> and <section> element tags?
   - _Article_ encloses a block of related content that makes sense on its own without the rest of the page. _Section_ grouping together a single part of the page that constitutes one single piece of functionality or theme. 
 #  What Elements does a “typical” website include?
-  - 
+  - Text, Color, Structure and Images
 #  How does metadata influence Search Engine Optimization?
   - 
 #  How is the <meta> HTML tag used when specifying metadata?

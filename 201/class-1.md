@@ -2,11 +2,11 @@
   - I've been working on the servers. All the live long day! / I've been getting all the responses just to pass the time away. / Can you hear your PC shouting? / You can't 'cus it's fan is on / I spent a fortune just to get a connection / So the DNS will keep us going along! / DNS c'mon! / DNS C'mon! / DNS C'mon! mon! mon! mon! 
 
 #  Describe how HTML, CSS, and JS files are “parsed” in the browser.
-  - HTML is parsed into a tree model called Document Object Model or DOM to represent the page structure. CSS is parsed into a model called CSS Object Model. (CSSOMN). Javascript code has been executed with these two code models to make the website work. 
+  - HTML  is parsed first into a tree model called Document Object Model or DOM to represent the page structure. Then recognizing any links/stylesheets throughout the page. Then  CSS is parsed into a model called CSS Object Model. (CSSOMN). Javascript code has been executed with these two code models to make the website work. 
 #  How can you find images to add to a Website?
-  - abdefgh
+  - Copy the image web address and paste it into a img tag or a store the image in a safe place on your folder. 
 #  How do you create a String vs a Number in JavaScript?
-  - abcdefgh
+  - 
 #  What is a Variable and why are they important in JavaScript?
   - abdefghi
 

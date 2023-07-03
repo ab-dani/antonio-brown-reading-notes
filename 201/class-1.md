@@ -33,10 +33,14 @@
 #  What is the most important question to answer when designing a Website?
   - What exactly do I want to accomplish?
 #  Why should you use an <h1> element over a <span> element to display a top level heading?
-  - 
+  - Because the h1 tag has semantic value. Span doesn't. 
 #  What are the benefits of using semantic tags in our HTML?
-  - 
+  - Search engines will consider its components as keywords.
+  - Screen readers can use it as a signpost to help visually impaired users navigate the page.
+  - Finding blocks of code are easier to find with div tags with or with out it being named.
+  - Suggests the developer what type of code will be populated.
+  - Semantic naming mirrors proper custom element naming.  
 #  Describe 2 things that require JavaScript in the Browser?
-  - 
+  - Form Validation and Dynamic Content and Interactivity
 # How can you add JavaScript to an HTML document?
-  - 
+  - script tag or adding a link to a .js file. 

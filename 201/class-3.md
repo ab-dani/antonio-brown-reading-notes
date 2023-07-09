@@ -5,9 +5,11 @@
 1. When should you use an unordered list in your HTML document?
      - You should use it for a shopping list.
 3. How do you change the bullet style of unordered list items?
-     - 
+     - Using the style property "list-style"
 5. When should you use an ordered list vs an unordered list in your HTML document?
-6. Describe two ways you can change the numbers on list items provided by an ordered list?
+     - You should use an ordered list for things like a recipe. You should use an ordered list for things like a shopping list. 
+7. Describe two ways you can change the numbers on list items provided by an ordered list?
+     - 
 
 
 # CSS The Box Model 

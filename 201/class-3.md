@@ -16,7 +16,9 @@
 # CSS The Box Model 
 
 1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-        - In the box model, Padding is the main character who we get the most info from in the beginning ThePaddingg is the secondary character who is the outer shell of the story. We don't know much about him but he helps out with the inner part of the story because he knows going on margin but margin doesn't know. 
+
+   - In the box model, Padding is the main character who we get the most info from in the beginning ThePaddingg is the secondary character who is the outer shell of the story. We don't know much about him but he helps out with the inner part of the story because he knows going on margin but margin doesn't know. 
+
 3. List and describe the four parts of an HTML elements box as referred to by the box model.
         - 
 

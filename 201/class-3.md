@@ -9,13 +9,15 @@
 5. When should you use an ordered list vs an unordered list in your HTML document?
      - You should use an ordered list for things like a recipe. You should use an ordered list for things like a shopping list. 
 7. Describe two ways you can change the numbers on list items provided by an ordered list?
-     - 
+     - Start attribute: This allows you to start a list from 1 all the way to finish.
+     - You can edit it directly from CSS. 
 
 
 # CSS The Box Model 
 
 1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-2. List and describe the four parts of an HTML elements box as referred to by the box model.
+        - 
+3. List and describe the four parts of an HTML elements box as referred to by the box model.
 
 
 # JS Arrays, Operators, Expressions, Conditions, and Loops

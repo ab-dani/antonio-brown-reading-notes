@@ -40,9 +40,11 @@
 
 1. What data types can you store inside of an Array?
 
-          - Integers, Characters, Strings, and Booleans
+   - Integers, Characters, Strings, and Booleans
  
 3. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+
+   - 
 
 
    

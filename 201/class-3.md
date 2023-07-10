@@ -24,11 +24,11 @@
     **Content**
    - The most important part of the Box Model. It contains images, text, and other elements that can be measured by width and height.
 
-     **Padding**
+   **Padding**
 
     - The space between the content and the border of the box. It affects the size of the content but nothing outside of the border. 
      
-     **Border**
+   **Border**
    - The area that surrounds the padding and content of the element. 
                                  
    **Margin**

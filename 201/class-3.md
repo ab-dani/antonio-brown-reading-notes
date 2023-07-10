@@ -20,16 +20,20 @@
    - In the box model, Padding is the main character who we get the most info in the beginning ThePaddingg is the secondary character who is the outer shell of the story. We don't know much about him but he helps out with the inner part of the story because he knows going on with Margin but Margin doesn't know. 
 
 3. List and describe the four parts of an HTML elements box as referred to by the box model.
-          **Content**
-   
+
+    **Content**
    - The most important part of the Box Model. It contains images, text, and other elements that can be measured by width and height.
 
      **Padding**
 
-   - The space between the content and the border of the box. It affects the size of the content but nothing outside of the border. 
+    - The space between the content and the border of the box. It affects the size of the content but nothing outside of the border. 
+     
      **Border**
+   - The area that surrounds the padding and content of the element. 
                                  
-    **Margin**
+   **Margin**
+   
+   - Space around the border of the element. If creates a gap between the element and the rest of the elements surrounding it. 
 
 
 # JS Arrays, Operators, Expressions, Conditions, and Loops

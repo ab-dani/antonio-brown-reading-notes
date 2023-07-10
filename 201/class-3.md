@@ -33,15 +33,21 @@
                                  
    **Margin**
    
-   - Space around the border of the element. If creates a gap between the element and the rest of the elements surrounding it. 
+   - Space around the border of the element. It creates a gap between the element and the rest of the elements surrounding it. 
 
 
 # JS Arrays, Operators, Expressions, Conditions, and Loops
 
 1. What data types can you store inside of an Array?
-2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
-3. List five shorthand operators for assignment in javascript and describe what they do.
-4. Read the code below, evaluate the last expression, and explain the result and why.
-5. Describe a real-world example of when a JavaScript program should use a conditional statement.
-6. Give an example of when a Loop is useful in JavaScript.
+
+          - Integers, Characters, Strings, and Booleans
+ 
+3. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+
+
+   
+5. List five shorthand operators for assignment in javascript and describe what they do.
+6. Read the code below, evaluate the last expression, and explain the result and why.
+7. Describe a real-world example of when a JavaScript program should use a conditional statement.
+8. Give an example of when a Loop is useful in JavaScript.
    

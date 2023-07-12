@@ -67,9 +67,9 @@
 
 
 7. Read the code below, evaluate the last expression, and explain the result and why.
-        - 
+        
 9. Describe a real-world example of when a JavaScript program should use a conditional statement.
-     -     
-11. Give an example of when a Loop is useful in JavaScript.
-    -
+        
+10. Give an example of when a Loop is useful in JavaScript.
+    
    

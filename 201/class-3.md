@@ -49,7 +49,11 @@
 
    
 5. List five shorthand operators for assignment in javascript and describe what they do.
-6. Read the code below, evaluate the last expression, and explain the result and why.
-7. Describe a real-world example of when a JavaScript program should use a conditional statement.
-8. Give an example of when a Loop is useful in JavaScript.
+        - 
+7. Read the code below, evaluate the last expression, and explain the result and why.
+        - 
+9. Describe a real-world example of when a JavaScript program should use a conditional statement.
+     -     
+11. Give an example of when a Loop is useful in JavaScript.
+    -
    

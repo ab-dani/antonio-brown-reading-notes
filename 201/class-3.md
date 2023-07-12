@@ -51,11 +51,21 @@
 5. List five shorthand operators for assignment in javascript and describe what they do.
 
 **Assginment Operators** 
-     - A value being determind by two integers on the left and right. (Example adding two numbers to get a sum.)
+
+- A value being determind by two integers on the left and right. (Example adding two numbers to get a sum.)
+
+     
 **Comparison Operators**
+
+
 **Logical Operators**
+
 **String Operators**
+
+
 **Relational Operators**
+
+
 7. Read the code below, evaluate the last expression, and explain the result and why.
         - 
 9. Describe a real-world example of when a JavaScript program should use a conditional statement.

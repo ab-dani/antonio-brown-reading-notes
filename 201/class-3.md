@@ -78,8 +78,8 @@
 
 9. Describe a real-world example of when a JavaScript program should use a conditional statement.
 
-- 
+- Playing a short game like we did in Lab 3 where the user guesses what the number is and they have to keep trying until they get it right. Kinda like Sudoku or Chess.
         
-11. Give an example of when a Loop is useful in JavaScript.
-    
+10. Give an example of when a Loop is useful in JavaScript.
+    - Let's say you have an array of 5 strings. The array of a string needs to list names in order. You could use a loop to get all of the names in order to get the names in order they need to go based on the exact string number the name it's in. 
    

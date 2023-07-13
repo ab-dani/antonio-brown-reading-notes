@@ -57,20 +57,29 @@
      
 **Comparison Operators**
 
-- 
+- It compares operands and returns a logical value based on if it's true. 
 
 **Logical Operators**
 
+- They return with a boolean value such as || and &&  
+
+
 **String Operators**
 
+- Used to bring two string values together to make an operation
 
 **Relational Operators**
 
+- Comparing its operands, it returns a boolean value based on if it is true or not. 
 
 7. Read the code below, evaluate the last expression, and explain the result and why.
-        
+
+- The answer would still be false because yes you may have added it in the parentheses. You still are multipplying it in the same place which would be false. 
+
 9. Describe a real-world example of when a JavaScript program should use a conditional statement.
+
+- 
         
-10. Give an example of when a Loop is useful in JavaScript.
+11. Give an example of when a Loop is useful in JavaScript.
     
    

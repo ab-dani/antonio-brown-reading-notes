@@ -49,6 +49,6 @@
 ## What is the difference between a parameter and an argument?
 
 - A parameter is a variable listed in a function declaration
-- 
+- An arguement is a value that is passed to a function when it is called. 
 
 ## Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.

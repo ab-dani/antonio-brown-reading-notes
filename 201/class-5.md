@@ -1,4 +1,4 @@
-# Class 5 Notes 
+ # Class 5 Notes 
 
 
 
@@ -31,22 +31,22 @@
 
 ## Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
 
--
+- Foreground color is the text and background color is the color of the paper.
 
 ## Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
 
-- 
+- Find him a solid color scheme for his brand and give the colors to the text and elemenents of the page. 
 
 
 ## What should you consider when choosing fonts for an HTML document?
 
--
+- Readability, Compatibility, Branding and Tone, Hierarchy, Emphasis, Accessibility, and Performance
 
 ## What do font-size, font-weight, and font-style do to HTML text elements?
 
-- 
+- Font size controls text size, Font-weight adjusts text thickness/boldness, and a font-style applies text styles to the text like italics and oblique.  
 
 ## Describe two ways you could add spacing around the characters displayed in an h1 element.
 
-- 
+- Use CSS property letter-spacing to adjust character spacing to add it to the H1 element
 

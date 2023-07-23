@@ -21,10 +21,12 @@
 
 8. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
-
+   - this keyword in JavaScript provides a dynamic reference to the object that a function belongs to, which enhances code flexibility, reusability, and organization by allowing functions to operate within the context of different objects.
 
 9. What is the DOM?
 
+- It is a programming interface that represents the structure of a web page as a tree of nodes. It allows developers to interact with and manipulate the content and style of a web page using Javascript. 
 
 10. Briefly describe the relationship between the DOM and JavaScript.
+    - The DOM (Document Object Model) provides a way for JavaScript to interact with and manipulate the content and structure of web pages dynamically.
 

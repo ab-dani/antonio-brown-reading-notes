@@ -1,7 +1,7 @@
 ## Explain how the ability to use video and audio on the web has evolved since the early 2000s.
-- 
+- Flash was tech for video and games. HTML5 made where you can put videos and music on a website without any special plug ins. Then now we can stream videos and music like Roku and Spotify. We can download pictures and play videos offline now. 
 ## Describe the use of the src and controls attributes in the <video> element.
-- 
+- The src attribute specifies the source of the video you wanna play. The controls add the play, pause, and volume button to the video. The controls make the video user friendly. 
 ## Why is it important to have fallback content inside the <video> element?
 - 
 ## Write a very short story where <audio> and <video> are characters.
